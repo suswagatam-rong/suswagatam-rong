@@ -58,20 +58,10 @@ In coding, much like in these philosophical discussions, we also wrestle with co
 
 ---
 
-### 🌈 Wisdom Nugget
+### 🌈 Favourite Quote
 
 > *"Those who cannot acknowledge themselves, will eventually fail."*  
 > — **Itachi Uchiha**
-
-In my journey as a developer, I've learned that true growth comes from self-awareness. Embracing my strengths and weaknesses has been crucial in overcoming obstacles. Each challenge in programming is an opportunity to reflect, adapt, and evolve. By acknowledging where I stand, I can better navigate the complexities of coding and emerge as a more capable and confident developer. This mindset transforms setbacks into stepping stones for success.
-
----
-
-### 🖼️ The Art of Coding
-
-Much like an artist wielding a brush, a developer's power lies in **transforming the intangible into something real** — a world of logic, yet shaped by creativity. Every function is carefully written, much like the verses of a poem, balancing elegance with efficiency. **Ada Lovelace**, often considered the first computer programmer, once said, *"The analytical engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves."* Coding, like any art, requires a **deep sense of precision, creativity**, and **beauty in simplicity**.
-
-In this world, we face constant challenges, unexpected errors, and unforeseen roadblocks — much like life itself. Yet, through every failed build or bug hunt, we grow, shaping the chaos into something meaningful. As Itachi and Madara reflect on the fragility of reality, I find the same essence in code — the fluid nature of abstraction, the fragility of systems, and the necessity to keep improving.
 
 ---
 
